@@ -1,0 +1,11 @@
+D:\School\2-2\network\chatingProgram\bin\Debug\ChatClient.exe.config
+D:\School\2-2\network\chatingProgram\bin\Debug\ChatClient.exe
+D:\School\2-2\network\chatingProgram\bin\Debug\ChatClient.pdb
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.CFormMain.resources
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.Properties.Resources.resources
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.exe
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.pdb
+D:\School\2-2\network\chatingProgram\obj\Debug\ChatClient.EmojiMain.resources
